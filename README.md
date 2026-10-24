@@ -7,10 +7,10 @@
 ---
 
 ## first task
-dataset: "analytics_report_2026-03-30_10_15.xlsx"\n
-solution: "task_one.ipynb"\n
-results: result_task_one.xlsx\n
+dataset: "analytics_report_2026-03-30_10_15.xlsx"<br>
+solution: "task_one.ipynb"<br>
+results: "result_task_one.xlsx"  
 
 ## second task:
-dataset: "Wildberries_categories_present_products_daily_report.xlsx"\n
+dataset: "Wildberries_categories_present_products_daily_report.xlsx"<br>
 solution and results: "result_task_two.xlsx"
